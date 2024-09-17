@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "wq",
+    "description": "",
+    "home_page_url": "https://main--famous-sawine-ac3651.netlify.app",
+    "feed_url": "https://main--famous-sawine-ac3651.netlify.app/feed.json",
+    "user_comment": "",
+    "icon": "https://main--famous-sawine-ac3651.netlify.app/media/website/logo-no-background.svg",
+    "author": {
+        "name": "carlos sam"
+    },
+    "items": [
+    ]
+}
